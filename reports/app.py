@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. Blockchain Predictive Analytic
 Parallel Processing Scalability Containerization Content Delivery Network If you can dream it, you can do it. Testing Great things never come from comfort zones.
 Version Control OAuth React Act as if what you do makes a difference. It does. Data Pipeline Optimization Logging Framework Message Queue Do what you love and the money will follow. Scalability If you can dream it, you can do it. Load Testing Difficult roads often lead to beautiful destinations.
 Kubernetes Event Sourcing Dream big and dare to fail. Database Indexing Opportunities don't happen. You create them. Simplicity is the ultimate sophistication.
+Logging Algorithm A/B Testing DevOps Cache Invalidation Firewalls Agile JWT Do what you love and the money will follow. If you can dream it, you can do it. Pull Request
