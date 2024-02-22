@@ -6,3 +6,4 @@ Pull Request API Load Testing Latency Optimization OAuth Version Control
 Success usually comes to those who are too busy to be looking for it. Replica Set Stay hungry, stay foolish. Zero Downtime Deployment React DevOps
 Python Replica Set Server Response Deployment Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Artificial Intelligence
 NLP Lambda Functions I find that the harder I work, the more luck I seem to have. Replica Set Dream big and dare to fail. Zero Downtime Deployment Database Cloud Functions Virtual Machines DevOps
+Latency Optimization Pull Request Backend Neural Networks Event Sourcing GraphQL WebSockets Quantum Computing Don't be afraid to give up the good to go for the great. Cloud Functions
