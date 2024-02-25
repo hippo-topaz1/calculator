@@ -10,3 +10,4 @@ OAuth Automation Event Sourcing RabbitMQ Dream big and dare to fail. API Innovat
 DNS Routing Cloud Functions Scalability Machine Learning Cache Invalidation Serverless
 Artificial Intelligence Database Monitoring Backend Stay hungry, stay foolish. Agile Containerization Sharding Serverless
 Cloud Kubernetes Database Indexing If you can dream it, you can do it. Framework Blockchain Optimization Database Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Agile
+Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Code Review Kafka
