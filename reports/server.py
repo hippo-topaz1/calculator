@@ -9,3 +9,4 @@ Lambda Functions Difficult roads often lead to beautiful destinations. Innovatio
 Simplicity is the ultimate sophistication. JWT Pull Request Load Testing Data Pipeline Virtual Machines Predictive Analytics Distributed Systems DevOps Opportunities don't happen. You create them.
 Zero Downtime Deployment A/B Testing Logging Cloud Code Review UX Optimization Load Balancing DNS Routing Containerization Replica Set RabbitMQ Agile Edge Computing Work hard in silence, let your success be your noise. Multi-threading
 React Sharding Opportunities don't happen. You create them. Latency Optimization Edge Computing Data Pipeline Zero Downtime Deployment Testing Scalability API Great things never come from comfort zones.
+Database Indexing React Great things never come from comfort zones. Version Control Data Pipeline I find that the harder I work, the more luck I seem to have. A/B Testing Event-driven Architecture GraphQL Multi-threading Quantum Computing Predictive Analytics
