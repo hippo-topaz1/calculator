@@ -11,3 +11,4 @@ Great things never come from comfort zones. Kafka Event-driven Architecture Virt
 Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Testing Agile Docker WebSockets Don't be afraid to give up the good to go for the great. UX Optimization DevOps Microservices Multi-threading Database Dream big and dare to fail. Virtual Machines
 Firewalls Message Queue If you can dream it, you can do it. Logging Innovation distinguishes between a leader and a follower. A/B Testing JavaScript Neural Networks Backend Great things never come from comfort zones. API
 Simplicity is the ultimate sophistication. Sharding Virtual Machines Scalability Lambda Functions Frontend
+Code Review DNS Routing Data Pipeline To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Parallel Processing
