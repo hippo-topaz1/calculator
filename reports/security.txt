@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Act as if what you do make
 DNS Routing To be the best, you must be able to handle the worst. Scalability Data Science Firewalls Version Control Blockchain Automation Python Message Queue Deployment OAuth Backend Multi-threading
 WebSockets Security Event Sourcing Message Queue RabbitMQ Great things never come from comfort zones. API Success is not in what you have, but who you are. API Gateway Virtual Machines Algorithm
 API Gateway Cloud Functions IoT Frontend Python
+Kafka Agile Lambda Functions Zero Downtime Deployment Blockchain Don't be afraid to give up the good to go for the great. Quantum Computing

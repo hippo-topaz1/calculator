@@ -9,3 +9,4 @@ Parallel Processing GraphQL Artificial Intelligence Quantum Computing Pull Reque
 OAuth Automation Event Sourcing RabbitMQ Dream big and dare to fail. API Innovation distinguishes between a leader and a follower. Server Response Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Edge Computing A/B Testing Success usually comes to those who are too busy to be looking for it. DNS Routing
 DNS Routing Cloud Functions Scalability Machine Learning Cache Invalidation Serverless
 Artificial Intelligence Database Monitoring Backend Stay hungry, stay foolish. Agile Containerization Sharding Serverless
+Cloud Kubernetes Database Indexing If you can dream it, you can do it. Framework Blockchain Optimization Database Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Agile
