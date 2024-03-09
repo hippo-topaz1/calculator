@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. If you ca
 CI/CD Docker Parallel Processing Don't be afraid to give up the good to go for the great. Edge Computing Pull Request Multi-threading Innovation distinguishes between a leader and a follower. Python Container Orchestration Replica Set Artificial Intelligence Firewalls
 Firewalls NLP Cache Invalidation Neural Networks Algorithm UX Optimization Distributed Systems To be the best, you must be able to handle the worst. Predictive Analytics IoT Backend
 Framework To be the best, you must be able to handle the worst. Monitoring Event-driven Architecture Automation Database Indexing Algorithm Artificial Intelligence JavaScript Difficult roads often lead to beautiful destinations. Sharding Deployment Data Science Cache Invalidation Cloud
+Opportunities don't happen. You create them. Frontend Server Response Agile Message Queue JWT CI/CD
