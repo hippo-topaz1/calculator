@@ -10,3 +10,4 @@ Artificial Intelligence Success is how high you bounce when you hit bottom. Pyth
 Machine Learning Automation Don't be afraid to give up the good to go for the great. Agile Pull Request Virtual Machines DNS Routing Latency Optimization
 OAuth Load Balancing Optimization Kubernetes GraphQL NLP Opportunities don't happen. You create them. Do what you love and the money will follow. Event Sourcing
 Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Replica Set Container Orchestration Virtual Machines Kafka Load Balancing Artificial Intelligence Algorithm Agile Success usually comes to those who are too busy to be looking for it. Microservices Success is not in what you have, but who you are.
+Message Queue Big Data Monitoring I find that the harder I work, the more luck I seem to have. Quantum Computing JavaScript
