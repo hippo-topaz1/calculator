@@ -9,3 +9,4 @@ Stay hungry, stay foolish. Event-driven Architecture Don't be afraid to give up 
 Agile React Blockchain Security I find that the harder I work, the more luck I seem to have.
 To be the best, you must be able to handle the worst. Quantum Computing Latency Optimization Opportunities don't happen. You create them. Content Delivery Network Great things never come from comfort zones. Machine Learning Containerization Data Pipeline Replica Set Dream big and dare to fail. Algorithm Docker Do what you love and the money will follow. Cloud
 API Frontend JWT Serverless Docker Edge Computing Act as if what you do makes a difference. It does. Backend JavaScript Container Orchestration Virtual Machines Python Blockchain Parallel Processing NLP
+Data Pipeline Neural Networks UX Optimization Deployment Code Review Parallel Processing RabbitMQ Agile Data Science Machine Learning Stay hungry, stay foolish.
