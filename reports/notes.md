@@ -4,3 +4,4 @@ RabbitMQ Kubernetes Lambda Functions Virtual Machines Performance Dream big and 
 Multi-threading Predictive Analytics Microservices Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. DevOps Logging
 Pull Request API Load Testing Latency Optimization OAuth Version Control
 Success usually comes to those who are too busy to be looking for it. Replica Set Stay hungry, stay foolish. Zero Downtime Deployment React DevOps
+Python Replica Set Server Response Deployment Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Artificial Intelligence
