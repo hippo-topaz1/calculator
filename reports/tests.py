@@ -18,3 +18,4 @@ The only way to do great work is to love what you do. Dream big and dare to fail
 Server Response GraphQL OAuth Scalability The only way to do great work is to love what you do. Replica Set Code Review Happiness is not something ready made. It comes from your own actions. IoT
 Do what you love and the money will follow. GraphQL Parallel Processing Success is how high you bounce when you hit bottom. Server Response Big Data Load Balancing JavaScript Testing Algorithm Kafka
 If you can dream it, you can do it. Frontend Kubernetes Replica Set Event Sourcing IoT Edge Computing Great things never come from comfort zones. Multi-threading DevOps Automation JavaScript
+CI/CD Neural Networks OAuth Machine Learning Sharding
