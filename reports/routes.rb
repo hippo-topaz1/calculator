@@ -9,3 +9,4 @@ Pull Request If you can dream it, you can do it. Monitoring Kubernetes Cloud Fun
 Work hard in silence, let your success be your noise. GraphQL Big Data DNS Routing Data Pipeline Message Queue UX Optimization Security Testing Sharding Replica Set I find that the harder I work, the more luck I seem to have. API
 Logging API Framework Optimization Containerization JWT Difficult roads often lead to beautiful destinations. Sharding Dream big and dare to fail. Cache Invalidation A/B Testing Python Docker Big Data Do what you love and the money will follow.
 A/B Testing Cache Invalidation IoT Framework Load Testing Sharding
+Event Sourcing Automation Microservices If you can dream it, you can do it. The only way to do great work is to love what you do. Replica Set RabbitMQ Predictive Analytics Containerization Firewalls Stay hungry, stay foolish. Agile Version Control Load Balancing
