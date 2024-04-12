@@ -10,3 +10,4 @@ Virtual Machines UX Optimization If you can dream it, you can do it. Firewalls K
 Great things never come from comfort zones. Kafka Event-driven Architecture Virtual Machines Dream big and dare to fail. Quantum Computing NLP Multi-threading Load Balancing
 Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Testing Agile Docker WebSockets Don't be afraid to give up the good to go for the great. UX Optimization DevOps Microservices Multi-threading Database Dream big and dare to fail. Virtual Machines
 Firewalls Message Queue If you can dream it, you can do it. Logging Innovation distinguishes between a leader and a follower. A/B Testing JavaScript Neural Networks Backend Great things never come from comfort zones. API
+Simplicity is the ultimate sophistication. Sharding Virtual Machines Scalability Lambda Functions Frontend
