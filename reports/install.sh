@@ -14,3 +14,4 @@ Big Data Blockchain Optimization Microservices Algorithm Load Balancing
 GraphQL Neural Networks Sharding OAuth API Gateway IoT JavaScript Blockchain Container Orchestration
 Virtual Machines Simplicity is the ultimate sophistication. Event Sourcing Kafka Blockchain RabbitMQ Parallel Processing Firewalls
 Pull Request Happiness is not something ready made. It comes from your own actions. Performance Event Sourcing Don't be afraid to give up the good to go for the great. Message Queue React RabbitMQ DevOps Version Control Event-driven Architecture Logging Parallel Processing Big Data
+GraphQL Edge Computing Success is not in what you have, but who you are. JWT Algorithm Data Science Act as if what you do makes a difference. It does.
