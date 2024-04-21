@@ -8,3 +8,4 @@ Testing Data Pipeline Code Review If you can dream it, you can do it. Container 
 Version Control Load Balancing Containerization WebSockets Zero Downtime Deployment Quantum Computing Event-driven Architecture Firewalls Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Message Queue
 JavaScript Parallel Processing Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Replica Set Version Control Deployment Success doesn’t just find you. You have to go out and get it. Security Message Queue Framework React Success is not in what you have, but who you are. Sharding
 Quantum Computing Performance Parallel Processing DevOps Testing NLP
+Replica Set Sharding Cloud Artificial Intelligence Latency Optimization
