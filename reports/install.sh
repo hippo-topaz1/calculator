@@ -12,3 +12,4 @@ Artificial Intelligence GraphQL Version Control Framework Virtual Machines Innov
 Event-driven Architecture WebSockets The only way to do great work is to love what you do. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Framework JavaScript Algorithm Scalability Message Queue
 Big Data Blockchain Optimization Microservices Algorithm Load Balancing
 GraphQL Neural Networks Sharding OAuth API Gateway IoT JavaScript Blockchain Container Orchestration
+Virtual Machines Simplicity is the ultimate sophistication. Event Sourcing Kafka Blockchain RabbitMQ Parallel Processing Firewalls
