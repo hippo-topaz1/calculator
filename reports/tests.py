@@ -15,3 +15,4 @@ Event-driven Architecture Big Data Cloud Functions Innovation distinguishes betw
 CI/CD If you can dream it, you can do it. DevOps Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Framework
 Parallel Processing Data Pipeline Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Machine Learning JWT Cache Invalidation Replica Set
 The only way to do great work is to love what you do. Dream big and dare to fail. Neural Networks Optimization Kafka Firewalls
+Server Response GraphQL OAuth Scalability The only way to do great work is to love what you do. Replica Set Code Review Happiness is not something ready made. It comes from your own actions. IoT
