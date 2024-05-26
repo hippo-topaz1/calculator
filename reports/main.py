@@ -8,3 +8,4 @@ UX Optimization Pull Request Content Delivery Network Don't be afraid to give up
 Parallel Processing GraphQL Artificial Intelligence Quantum Computing Pull Request DevOps Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Firewalls Version Control Happiness is not something ready made. It comes from your own actions.
 OAuth Automation Event Sourcing RabbitMQ Dream big and dare to fail. API Innovation distinguishes between a leader and a follower. Server Response Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Edge Computing A/B Testing Success usually comes to those who are too busy to be looking for it. DNS Routing
 DNS Routing Cloud Functions Scalability Machine Learning Cache Invalidation Serverless
+Artificial Intelligence Database Monitoring Backend Stay hungry, stay foolish. Agile Containerization Sharding Serverless
