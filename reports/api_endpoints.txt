@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Backend DevOps Clou
 React Event Sourcing UX Optimization Opportunities don't happen. You create them. Microservices
 Message Queue Cloud Functions UX Optimization React Success is how high you bounce when you hit bottom. Deployment
 Act as if what you do makes a difference. It does. Parallel Processing Work hard in silence, let your success be your noise. Load Balancing Monitoring Backend
+A/B Testing Success is how high you bounce when you hit bottom. Cloud Functions RabbitMQ Dream big and dare to fail. Event Sourcing Cache Invalidation Pull Request Frontend Testing Opportunities don't happen. You create them. DevOps Code Review Load Testing
