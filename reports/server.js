@@ -8,3 +8,4 @@ Backend API WebSockets API Gateway Distributed Systems Monitoring Happiness is n
 Do what you love and the money will follow. Code Review Testing Python Distributed Systems Framework DNS Routing To be the best, you must be able to handle the worst. Frontend Containerization Neural Networks
 Artificial Intelligence Success is how high you bounce when you hit bottom. Python Cloud Innovation distinguishes between a leader and a follower. Optimization
 Machine Learning Automation Don't be afraid to give up the good to go for the great. Agile Pull Request Virtual Machines DNS Routing Latency Optimization
+OAuth Load Balancing Optimization Kubernetes GraphQL NLP Opportunities don't happen. You create them. Do what you love and the money will follow. Event Sourcing
