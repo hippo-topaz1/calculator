@@ -8,3 +8,4 @@ Event Sourcing Pull Request Container Orchestration Code Review Cloud Functions 
 Kafka Framework Simplicity is the ultimate sophistication. Security Data Pipeline Message Queue Data Science Act as if what you do makes a difference. It does. Optimization API Container Orchestration Monitoring Opportunities don't happen. You create them. If you can dream it, you can do it. Server Response
 Virtual Machines UX Optimization If you can dream it, you can do it. Firewalls Kafka API Gateway
 Great things never come from comfort zones. Kafka Event-driven Architecture Virtual Machines Dream big and dare to fail. Quantum Computing NLP Multi-threading Load Balancing
+Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Testing Agile Docker WebSockets Don't be afraid to give up the good to go for the great. UX Optimization DevOps Microservices Multi-threading Database Dream big and dare to fail. Virtual Machines
