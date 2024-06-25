@@ -10,3 +10,4 @@ DevOps Dream big and dare to fail. UX Optimization Kafka Machine Learning Cache 
 JWT Success is not in what you have, but who you are. CI/CD Kubernetes Framework Containerization Innovation distinguishes between a leader and a follower. Edge Computing Latency Optimization Python If you can dream it, you can do it.
 Artificial Intelligence GraphQL Version Control Framework Virtual Machines Innovation distinguishes between a leader and a follower. Server Response
 Event-driven Architecture WebSockets The only way to do great work is to love what you do. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Framework JavaScript Algorithm Scalability Message Queue
+Big Data Blockchain Optimization Microservices Algorithm Load Balancing

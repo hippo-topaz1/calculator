@@ -13,3 +13,4 @@ WebSockets Replica Set Containerization Kubernetes If you can dream it, you can 
 Monitoring Scalability The only way to do great work is to love what you do. Neural Networks IoT Predictive Analytics Frontend Kubernetes Zero Downtime Deployment
 Event-driven Architecture Big Data Cloud Functions Innovation distinguishes between a leader and a follower. Pull Request Database Quantum Computing CI/CD Work hard in silence, let your success be your noise. Multi-threading Simplicity is the ultimate sophistication. Lambda Functions Success doesn’t just find you. You have to go out and get it.
 CI/CD If you can dream it, you can do it. DevOps Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Framework
+Parallel Processing Data Pipeline Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Machine Learning JWT Cache Invalidation Replica Set
