@@ -6,3 +6,4 @@ Containerization Virtual Machines Neural Networks Testing Cache Invalidation Clo
 Blockchain Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Containerization Data Pipeline Multi-threading Stay hungry, stay foolish. Content Delivery Network Opportunities don't happen. You create them. Database NLP Data Science Latency Optimization
 Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Performance Algorithm Backend
 Stay hungry, stay foolish. Lambda Functions Distributed Systems Machine Learning Backend Dream big and dare to fail. I find that the harder I work, the more luck I seem to have.
+Database React To be the best, you must be able to handle the worst. Artificial Intelligence Dream big and dare to fail. Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Event Sourcing
