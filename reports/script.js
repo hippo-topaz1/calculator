@@ -6,3 +6,4 @@ Cloud Functions Success doesn’t just find you. You have to go out and get it. Do
 Dream big and dare to fail. Stay hungry, stay foolish. RabbitMQ Predictive Analytics Version Control CI/CD Event Sourcing Framework
 Event Sourcing Pull Request Container Orchestration Code Review Cloud Functions Firewalls API Gateway Load Testing Optimization Data Pipeline
 Kafka Framework Simplicity is the ultimate sophistication. Security Data Pipeline Message Queue Data Science Act as if what you do makes a difference. It does. Optimization API Container Orchestration Monitoring Opportunities don't happen. You create them. If you can dream it, you can do it. Server Response
+Virtual Machines UX Optimization If you can dream it, you can do it. Firewalls Kafka API Gateway
