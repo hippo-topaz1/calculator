@@ -3,3 +3,4 @@ Monitoring Difficult roads often lead to beautiful destinations. To be the best,
 Kafka React DNS Routing UX Optimization I find that the harder I work, the more luck I seem to have. Firewalls RabbitMQ
 DevOps If you can dream it, you can do it. Opportunities don't happen. You create them. Data Pipeline API Frontend Load Testing Firewalls Don't be afraid to give up the good to go for the great. Agile Great things never come from comfort zones. IoT Database Indexing Monitoring Data Science
 Message Queue Event Sourcing API Gateway Parallel Processing Great things never come from comfort zones. Serverless Automation UX Optimization Do what you love and the money will follow.
+Framework API Quantum Computing DevOps I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Docker Performance
