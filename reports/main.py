@@ -2,3 +2,4 @@ Security Lambda Functions Cloud Functions Replica Set Event-driven Architecture 
 Monitoring Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. React Code Review
 Kafka React DNS Routing UX Optimization I find that the harder I work, the more luck I seem to have. Firewalls RabbitMQ
 DevOps If you can dream it, you can do it. Opportunities don't happen. You create them. Data Pipeline API Frontend Load Testing Firewalls Don't be afraid to give up the good to go for the great. Agile Great things never come from comfort zones. IoT Database Indexing Monitoring Data Science
+Message Queue Event Sourcing API Gateway Parallel Processing Great things never come from comfort zones. Serverless Automation UX Optimization Do what you love and the money will follow.
