@@ -7,3 +7,4 @@ API Gateway Deployment Microservices RabbitMQ Simplicity is the ultimate sophist
 API Gateway Python Firewalls Quantum Computing Difficult roads often lead to beautiful destinations. Big Data Great things never come from comfort zones. Latency Optimization
 Cloud Deployment Version Control Big Data Database Indexing GraphQL API Gateway Replica Set DNS Routing Scalability
 Opportunities don't happen. You create them. CI/CD RabbitMQ API Gateway Lambda Functions Performance
+If you can dream it, you can do it. Container Orchestration Predictive Analytics Happiness is not something ready made. It comes from your own actions. Database Success is not in what you have, but who you are. To be the best, you must be able to handle the worst.
