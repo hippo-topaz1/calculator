@@ -3,3 +3,4 @@ Cache Invalidation Act as if what you do makes a difference. It does. Cloud UX O
 Docker If you can dream it, you can do it. Quantum Computing Stay hungry, stay foolish. Data Science
 Deployment Docker Lambda Functions Logging Artificial Intelligence Edge Computing CI/CD Algorithm Event-driven Architecture Automation
 Code Review Cache Invalidation Automation Logging Neural Networks Kafka Act as if what you do makes a difference. It does. JWT Success is not in what you have, but who you are. UX Optimization Simplicity is the ultimate sophistication. Edge Computing To be the best, you must be able to handle the worst. A/B Testing Security
+Framework OAuth To be the best, you must be able to handle the worst. WebSockets Testing Happiness is not something ready made. It comes from your own actions. Neural Networks Lambda Functions API Gateway Automation Simplicity is the ultimate sophistication. Kubernetes
