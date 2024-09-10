@@ -6,3 +6,4 @@ DevOps NLP Parallel Processing Don't be afraid to give up the good to go for the
 Framework Containerization Docker Agile Cache Invalidation Simplicity is the ultimate sophistication.
 Code Review Algorithm Scalability Cloud Multi-threading Performance Database Indexing JWT Agile Success is not in what you have, but who you are.
 I find that the harder I work, the more luck I seem to have. Backend DevOps Cloud Functions GraphQL Don't be afraid to give up the good to go for the great. Serverless Docker Content Delivery Network The only way to do great work is to love what you do. Frontend If you can dream it, you can do it. RabbitMQ Security Deployment
+React Event Sourcing UX Optimization Opportunities don't happen. You create them. Microservices
