@@ -7,3 +7,4 @@ DevOps Database Indexing Sharding Parallel Processing Scalability Version Contro
 To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Load Balancing NLP RabbitMQ Predictive Analytics A/B Testing Frontend Monitoring DevOps Data Science Great things never come from comfort zones. Act as if what you do makes a difference. It does.
 Container Orchestration WebSockets Replica Set Database Indexing Scalability Monitoring DevOps
 RabbitMQ Distributed Systems Version Control Server Response Do what you love and the money will follow. Load Balancing Database Indexing DevOps Parallel Processing IoT Scalability Python OAuth Testing Success is how high you bounce when you hit bottom.
+Neural Networks Success usually comes to those who are too busy to be looking for it. Kafka Replica Set Machine Learning Opportunities don't happen. You create them. Cloud Functions Microservices Monitoring Parallel Processing
