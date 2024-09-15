@@ -3,3 +3,4 @@ Deployment Success doesn’t just find you. You have to go out and get it. Innovat
 Edge Computing Firewalls Container Orchestration Work hard in silence, let your success be your noise. Serverless JWT Containerization
 GraphQL Predictive Analytics Testing Distributed Systems Zero Downtime Deployment Artificial Intelligence Lambda Functions Agile
 Data Pipeline Happiness is not something ready made. It comes from your own actions. Containerization JavaScript Great things never come from comfort zones. Event Sourcing DevOps Algorithm Predictive Analytics Cache Invalidation Event-driven Architecture Testing Artificial Intelligence DNS Routing Parallel Processing
+I find that the harder I work, the more luck I seem to have. Big Data Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Database JWT
