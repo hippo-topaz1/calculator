@@ -4,3 +4,4 @@ Replica Set Machine Learning Frontend DevOps Simplicity is the ultimate sophisti
 Python Logging Predictive Analytics If you can dream it, you can do it. Frontend Latency Optimization Zero Downtime Deployment Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Pull Request Server Response
 DevOps NLP Parallel Processing Don't be afraid to give up the good to go for the great. Latency Optimization Scalability Cache Invalidation Event Sourcing Replica Set Frontend Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst.
 Framework Containerization Docker Agile Cache Invalidation Simplicity is the ultimate sophistication.
+Code Review Algorithm Scalability Cloud Multi-threading Performance Database Indexing JWT Agile Success is not in what you have, but who you are.
