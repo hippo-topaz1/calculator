@@ -4,3 +4,4 @@ Virtual Machines Simplicity is the ultimate sophistication. Multi-threading Test
 Stay hungry, stay foolish. Cache Invalidation Edge Computing Success is not in what you have, but who you are. Deployment Pull Request Sharding Version Control If you can dream it, you can do it. Load Testing
 Firewalls Serverless NLP Quantum Computing Data Pipeline Virtual Machines Code Review Cloud Functions Kafka API
 Database Indexing Firewalls Optimization Cloud Monitoring Distributed Systems
+Data Science DNS Routing Event Sourcing API I find that the harder I work, the more luck I seem to have. Artificial Intelligence Logging Version Control JWT
