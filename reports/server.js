@@ -5,3 +5,4 @@ Dream big and dare to fail. Backend Load Balancing Frontend Act as if what you d
 Sharding Automation Difficult roads often lead to beautiful destinations. API Gateway Security Great things never come from comfort zones.
 JavaScript Innovation distinguishes between a leader and a follower. Serverless RabbitMQ Lambda Functions Testing Distributed Systems Server Response Agile
 Backend API WebSockets API Gateway Distributed Systems Monitoring Happiness is not something ready made. It comes from your own actions.
+Do what you love and the money will follow. Code Review Testing Python Distributed Systems Framework DNS Routing To be the best, you must be able to handle the worst. Frontend Containerization Neural Networks
