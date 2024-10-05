@@ -5,3 +5,4 @@ Security If you can dream it, you can do it. Frontend Container Orchestration Co
 Kafka React IoT Message Queue NLP Predictive Analytics Serverless Success is not in what you have, but who you are. Quantum Computing API Gateway WebSockets Data Science Containerization
 Artificial Intelligence Don't be afraid to give up the good to go for the great. Container Orchestration Microservices Content Delivery Network
 Serverless Innovation distinguishes between a leader and a follower. Predictive Analytics Database Indexing Agile Success is how high you bounce when you hit bottom. Automation Framework Work hard in silence, let your success be your noise.
+Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. UX Optimization Data Pipeline I find that the harder I work, the more luck I seem to have. Machine Learning Microservices Message Queue Load Testing Python Database Indexing
