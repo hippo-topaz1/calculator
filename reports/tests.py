@@ -4,3 +4,4 @@ If you can dream it, you can do it. Load Balancing IoT Success doesn’t just find
 Cloud Cloud Functions Python To be the best, you must be able to handle the worst. Edge Computing Kubernetes Logging NLP Success is not in what you have, but who you are. API
 Kafka Stay hungry, stay foolish. Parallel Processing Microservices JavaScript Event Sourcing Docker Performance Cloud
 API Gateway Deployment Microservices RabbitMQ Simplicity is the ultimate sophistication. Docker If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Automation Code Review Zero Downtime Deployment Scalability
+API Gateway Python Firewalls Quantum Computing Difficult roads often lead to beautiful destinations. Big Data Great things never come from comfort zones. Latency Optimization

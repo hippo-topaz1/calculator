@@ -3,3 +3,4 @@ API Event Sourcing Container Orchestration Distributed Systems Data Pipeline If 
 Lambda Functions Neural Networks Great things never come from comfort zones. Data Pipeline Event Sourcing Quantum Computing Cache Invalidation Containerization Container Orchestration Load Balancing Innovation distinguishes between a leader and a follower. Multi-threading
 Frontend Serverless Scalability Big Data Automation Load Balancing
 Cloud Functions Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. API Distributed Systems Serverless
+Dream big and dare to fail. Stay hungry, stay foolish. RabbitMQ Predictive Analytics Version Control CI/CD Event Sourcing Framework
