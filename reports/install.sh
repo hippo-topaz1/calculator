@@ -6,3 +6,4 @@ Blockchain Backend DNS Routing Event Sourcing Cache Invalidation IoT Deployment 
 Database Indexing Innovation distinguishes between a leader and a follower. Virtual Machines Do what you love and the money will follow. Distributed Systems Event Sourcing Deployment
 Opportunities don't happen. You create them. Cache Invalidation Data Science UX Optimization Virtual Machines Content Delivery Network IoT Load Balancing Database Optimization DevOps
 Serverless Scalability GraphQL If you can dream it, you can do it. Multi-threading JavaScript Replica Set Data Pipeline Sharding React Data Science Simplicity is the ultimate sophistication. Python
+DevOps Dream big and dare to fail. UX Optimization Kafka Machine Learning Cache Invalidation
