@@ -4,3 +4,4 @@ NLP Predictive Analytics Firewalls Big Data Docker Security RabbitMQ Server Resp
 Security If you can dream it, you can do it. Frontend Container Orchestration Containerization Scalability Zero Downtime Deployment To be the best, you must be able to handle the worst.
 Kafka React IoT Message Queue NLP Predictive Analytics Serverless Success is not in what you have, but who you are. Quantum Computing API Gateway WebSockets Data Science Containerization
 Artificial Intelligence Don't be afraid to give up the good to go for the great. Container Orchestration Microservices Content Delivery Network
+Serverless Innovation distinguishes between a leader and a follower. Predictive Analytics Database Indexing Agile Success is how high you bounce when you hit bottom. Automation Framework Work hard in silence, let your success be your noise.
