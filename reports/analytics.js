@@ -3,3 +3,4 @@ Kafka I find that the harder I work, the more luck I seem to have. Work hard in 
 NLP Predictive Analytics Firewalls Big Data Docker Security RabbitMQ Server Response Automation
 Security If you can dream it, you can do it. Frontend Container Orchestration Containerization Scalability Zero Downtime Deployment To be the best, you must be able to handle the worst.
 Kafka React IoT Message Queue NLP Predictive Analytics Serverless Success is not in what you have, but who you are. Quantum Computing API Gateway WebSockets Data Science Containerization
+Artificial Intelligence Don't be afraid to give up the good to go for the great. Container Orchestration Microservices Content Delivery Network
