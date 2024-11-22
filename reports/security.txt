@@ -1,2 +1,3 @@
 Scalability The only way to do great work is to love what you do. Python Version Control OAuth Virtual Machines Data Science Data Pipeline DNS Routing IoT Event Sourcing Don't be afraid to give up the good to go for the great.
 Agile Content Delivery Network Parallel Processing Zero Downtime Deployment Cloud Functions Quantum Computing Database Load Balancing Python Firewalls UX Optimization I find that the harder I work, the more luck I seem to have.
+Container Orchestration Agile WebSockets Cloud React Backend Pull Request Content Delivery Network Data Science The only way to do great work is to love what you do.
