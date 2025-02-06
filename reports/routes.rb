@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Optimization Docker Server Response Quantum Computing Container Orchestration Success is not in what you have, but who you are. Blockchain
